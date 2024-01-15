@@ -1,0 +1,12 @@
+.App{
+  height: 100dvh;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+#basic-navbar-nav, #basic-navbar-nav > div{
+    width: 100%;
+}
